@@ -1,13 +1,10 @@
 # Hi, I'm Ali Ghazvinee 👋
-**Computational Mechanics & CFD/FSI Developer | Physics-Informed Numerical Solvers**
+**Computational Mechanics & CFD Developer | Physics-Informed Numerical Solvers**
 
 ---
 
 ### 🔬 Research & Technical Focus
 - **Computational Fluid Dynamics (CFD):** Incompressible Navier–Stokes, Staggered MAC Grid, Chorin's Projection Method.
-- **Fluid-Structure Interaction (FSI):** Immersed Boundary Method (IBM), 2-DOF Vortex-Induced Vibrations (VIV).
-- **High-Performance Computing (HPC):** First-Principles Python Development, Numba JIT Acceleration, Symplectic Time Integrators.
-
 ---
 
 ### 🚀 Featured Projects
